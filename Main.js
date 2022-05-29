@@ -14,5 +14,5 @@ function gotPoses(results){
       console.log(results)
   }
 }function draw(){
-    background( 'ligtblue' )
+    background( 'ligtgreen' )
 }
